@@ -25,3 +25,6 @@
   background: #4b0082;
   color: white;
 }
+html {
+  scroll-behavior: smooth;
+}
