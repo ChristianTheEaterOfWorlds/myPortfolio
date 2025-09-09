@@ -16,7 +16,7 @@ function Hero() {
         real-world challenges.
         </p>
         <div className="hero-buttons">
-          <a href="#hire" className="btn-primary">Hire Me Now</a>
+          <a href="https://www.facebook.com/share/r/1AGLCEs3x6/" className="btn-primary" target="_blank">Hire Me Now</a>
           <a href="tel:+09693931057" className="btn-primary">Call me: 09693931057</a> 
         </div>
       </div>

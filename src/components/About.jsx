@@ -12,8 +12,7 @@ function About() {
         solve real-world problems and help businesses grow..
       </p>
       <div className="about-buttons">
-        <a href="#hire" className="btn-primary">Hire Me Now</a>
-        <a href="https://wa.me/yourNumber" className="btn-outline">Whatsapp</a>
+        <a href="https://www.facebook.com/share/r/19bHTSYSkf/" className="btn-primary" target ="_blank">Hire Me Now</a>
       </div>
     </section>
   )
